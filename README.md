@@ -17,3 +17,10 @@ You can also call datepicker() with "destroy" to remove the Datepicker from an e
 ```javascript
 $('#id-element').datepicker("destroy"); // --> no more calendar when clicking on the element
 ```
+
+You can also add a timepicker by this 
+```javascript
+$('#id-element').datepicker({
+		timeSwitch: 1
+	});
+```
