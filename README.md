@@ -21,6 +21,6 @@ $('#id-element').datepicker("destroy"); // --> no more calendar when clicking on
 You can also add a timepicker by this 
 ```javascript
 $('#id-element').datepicker({
-		timeSwitch: 1
-	});
+	timeSwitch: 1
+});
 ```
